@@ -1,0 +1,3 @@
+The Fuel Consumption Estimator is a machine learning project that predicts a vehicle’s fuel consumption or CO₂ emissions based on its specifications and driving conditions. By analyzing features such as engine size, number of cylinders, city and highway fuel consumption, the model can estimate how much fuel a car will use or how much it will emit, helping drivers, fleet managers, and environmental analysts make informed decisions.
+
+This project uses a real-world dataset from Kaggle and applies regression models, including Linear Regression and Random Forest Regressor, to learn patterns in fuel consumption. The trained model can be used to monitor vehicle efficiency, plan trips, and reduce environmental impact.
